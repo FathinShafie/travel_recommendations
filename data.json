@@ -1,0 +1,41 @@
+{
+  "recommendations": [
+      {
+          "destination": "Paris, France",
+          "description": "The city of lights, known for its art, fashion, and culture.",
+          "bestTime": "April to June, September to October",
+          "location": "48.8566° N, 2.3522° E"
+      },
+      {
+          "destination": "Tokyo, Japan",
+          "description": "A vibrant metropolis that blends traditional culture with modern technology.",
+          "bestTime": "March to May, September to November",
+          "location": "35.6762° N, 139.6503° E"
+      },
+      {
+          "destination": "New York City, USA",
+          "description": "Known as 'The Big Apple', it's famous for its skyline and diverse culture.",
+          "bestTime": "April to June, September to November",
+          "location": "40.7128° N, -74.0060° W"
+      },
+      {
+          "destination": "Cape Town, South Africa",
+          "description": "Known for its stunning landscapes and rich history.",
+          "bestTime": "October to April",
+          "location": "-33.9249° S, 18.4241° E"
+      },
+      {
+          "destination": "Sydney, Australia",
+          "description": "Famous for its Sydney Opera House and beautiful harbor.",
+          "bestTime": "September to November, March to May",
+          "location": "-33.8688° S, 151.2093° E"
+      },
+      {
+          "destination": "Rio de Janeiro, Brazil",
+          "description": "Known for its Copacabana and Ipanema beaches.",
+          "bestTime": "December to March",
+          "location": "-22.9068° S, -43.1729° W"
+      }
+  ]
+}
+
